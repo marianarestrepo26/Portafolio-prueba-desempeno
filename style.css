@@ -342,6 +342,7 @@ footer a:hover {
 .contact_me h1, .contact_me h3{
     padding: 10px;
     border-radius: 5px;
+    margin-buttom: 10px;
 }
 
 .contact_form {
