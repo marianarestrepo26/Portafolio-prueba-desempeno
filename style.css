@@ -547,5 +547,9 @@ form button:hover {
     object-fit: cover;
     z-index: 1;
     }
+    
+    .description {
+    font-size: 15px;
+}
 
 }
